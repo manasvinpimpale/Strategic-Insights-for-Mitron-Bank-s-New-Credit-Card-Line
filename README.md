@@ -1,9 +1,10 @@
-Strategic Insights for Mitron Bank's New Credit Card Line
+#Strategic Insights for Mitron Bank's New Credit Card Line
+
 Project Details: Mitron Bank aimed to enhance its credit card portfolio by gaining deeper insights into customer spending behavior. In collaboration with AtliQ Services, this project focused on analyzing transaction data to identify meaningful trends that could support more informed product and marketing decisions.
 
 In the Mitron Bank Credit Card Expansion, our aim was to diversify offerings and boost market presence.
 
-Key findings:
+##Key findings:
 
 1.Spending Patterns: Bills, Groceries, and Electronics emerged as the most prominent spending categories, with Mumbai contributing the highest overall spend.
 2.Income Influence: Salaried IT professionals, business owners, and other salaried individuals were identified as the highest-spending segments.
@@ -11,7 +12,7 @@ Key findings:
 4.City-Level Insights: While Mumbai led overall, Delhi NCR, Bengaluru, and Chennai displayed distinct and varied spending behaviors.
 5.Demographic Trends: Credit card usage was more prominent among male and married customers.
 
-Learnings:
+##Learnings:
 
 1.Crafted targeted offers for demographics.
 2.Introduced category-specific features.
